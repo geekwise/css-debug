@@ -33,7 +33,6 @@ section > span{
 
 
 section > span > img{
-    position:relative;
     margin:0;
     padding:0;
     width:calc(230px/2);
@@ -48,7 +47,6 @@ section > span > img{
 
 
 #navy_logo > img{
-    position:relative;
     float:right;
     background-color:#6b6c88;
 }
